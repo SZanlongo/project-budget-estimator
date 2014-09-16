@@ -1,0 +1,44 @@
+/* Site Colors:
+	#1A446C - blue grey
+	#689DC1 - light blue
+	#D4E6F4 - very light blue
+	#EEE4B9 - light tan
+	#8D0D19 - burgundy
+*/
+
+html { height: 100%; width: 100%; }
+body { width: 100%; height: 100%; margin: 0px; padding: 0px; border: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; background: #CDC8B1;
+	font-size: 13px; line-height: 15px;}
+img { border: none; }
+table, tr, td { border-collapse: collapse; vertical-align: top; font-size: 13px; line-height: 15px;}
+a { color: #8D0D19;}
+
+#header { height: 70px; margin: 0px; padding: 0px; text-align: left; 
+	background: #000000; color: #FAFAFA; }
+#header h1 { padding: 1em; margin: 0px;}
+#main { margin: 0px; padding: 0px; height: 600px; width: 100%; background: #CDC8B1; }
+#structure { height: 600px; width: 100%; }
+#footer { height: 2em; margin: 0px; padding: 1em; text-align: center; 
+	background: #1A446C;  color: #CDC8B1; }
+
+
+#navigation { width: 150px; padding: 1em 2em; color: #303030; background: #CDC8B1; }
+#navigation a { color: #303030; text-decoration: none; }
+ul.projects { padding-left: 0; list-style: none; }
+ul.categories { padding-left: 2em; list-style: square; }
+.selected { font-weight: bold; }
+
+
+ul.product { padding-left: 0; list-style: none; }
+
+
+#categories { padding-left: 2em; vertical-align: top; background: #CDC8B1
+                  ; margin-left:40%;}
+#categories h2 { color: #303030; margin-top: 1em; font-size: 16px;}
+#categories h3 { color: #303030; }
+
+.report
+{
+    align:center;
+}
